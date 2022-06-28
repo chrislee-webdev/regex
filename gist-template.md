@@ -77,4 +77,6 @@ The regex that I will attempt to explain will be one that find an email address.
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+My name is Chris is and I am currently attending the University of Minnesota Coding Bootcamp. After many years, I have found that I am really passionate about coding and I hope that this will lead to a career in the industry. 
+Please feel free to visit my GitHub page!
+https://github.com/chrislee-webdev
